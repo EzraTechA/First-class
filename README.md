@@ -1,1 +1,1 @@
-# First-class
+This is note written while taking the Geez Tech Security Taster course.
